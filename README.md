@@ -1,0 +1,2 @@
+# pokedexdb
+Database of pokedex
